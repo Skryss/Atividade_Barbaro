@@ -1,0 +1,8 @@
+C:\Users\misael.apaula\source\repos\Atividade_aguia\Atividade_aguia\obj\Debug\Atividade_aguia.csproj.AssemblyReference.cache
+C:\Users\misael.apaula\source\repos\Atividade_aguia\Atividade_aguia\obj\Debug\Atividade_aguia.csproj.SuggestedBindingRedirects.cache
+C:\Users\misael.apaula\source\repos\Atividade_aguia\Atividade_aguia\obj\Debug\Atividade_aguia.csproj.CoreCompileInputs.cache
+C:\Users\misael.apaula\source\repos\Atividade_aguia\Atividade_aguia\bin\Debug\Atividade_aguia.exe.config
+C:\Users\misael.apaula\source\repos\Atividade_aguia\Atividade_aguia\bin\Debug\Atividade_aguia.exe
+C:\Users\misael.apaula\source\repos\Atividade_aguia\Atividade_aguia\bin\Debug\Atividade_aguia.pdb
+C:\Users\misael.apaula\source\repos\Atividade_aguia\Atividade_aguia\obj\Debug\Atividade_aguia.exe
+C:\Users\misael.apaula\source\repos\Atividade_aguia\Atividade_aguia\obj\Debug\Atividade_aguia.pdb

@@ -1,0 +1,8 @@
+C:\Users\misael.apaula\source\repos\Atividade_UnicornioBOSS\Atividade_UnicornioBOSS\bin\Debug\Atividade_UnicornioBOSS.exe.config
+C:\Users\misael.apaula\source\repos\Atividade_UnicornioBOSS\Atividade_UnicornioBOSS\bin\Debug\Atividade_UnicornioBOSS.exe
+C:\Users\misael.apaula\source\repos\Atividade_UnicornioBOSS\Atividade_UnicornioBOSS\bin\Debug\Atividade_UnicornioBOSS.pdb
+C:\Users\misael.apaula\source\repos\Atividade_UnicornioBOSS\Atividade_UnicornioBOSS\obj\Debug\Atividade_UnicornioBOSS.csproj.AssemblyReference.cache
+C:\Users\misael.apaula\source\repos\Atividade_UnicornioBOSS\Atividade_UnicornioBOSS\obj\Debug\Atividade_UnicornioBOSS.csproj.SuggestedBindingRedirects.cache
+C:\Users\misael.apaula\source\repos\Atividade_UnicornioBOSS\Atividade_UnicornioBOSS\obj\Debug\Atividade_UnicornioBOSS.csproj.CoreCompileInputs.cache
+C:\Users\misael.apaula\source\repos\Atividade_UnicornioBOSS\Atividade_UnicornioBOSS\obj\Debug\Atividade_UnicornioBOSS.exe
+C:\Users\misael.apaula\source\repos\Atividade_UnicornioBOSS\Atividade_UnicornioBOSS\obj\Debug\Atividade_UnicornioBOSS.pdb
